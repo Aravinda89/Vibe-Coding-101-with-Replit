@@ -5,4 +5,4 @@ Vibe Coding 101 with Replit - deeplearning.ai
 
 [Implementing SEO Analysis Features](https://d54cee9b-efdb-4c83-af5b-4c486eab357c-00-ur9kenawp1n.worf.replit.dev/)
 
-[SEO Inspector](https://af67da7f-a211-4615-874d-ae929dca8e60.janeway.prod.repl.run/)
+[SEO Inspector](https://seo-inspector--aravindagn123.replit.app/)
